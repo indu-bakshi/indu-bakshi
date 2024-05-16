@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indu Bakshi</h1>
-<h3 align="center">A passionate frontendAs a passionate developer, I excel in transforming complex problems into elegant solutions. My focus is on crafting modern applications with exceptional user experiences. I believe in clean code and collaborative development, from conception to deployment. developer from India</h3>
+<h3 align="center">As a passionate fullstack developer, I excel in transforming complex problems into elegant solutions. My focus is on crafting modern applications with exceptional user experiences. I believe in clean code and collaborative development, from conception to deployment.</h3>
 
 - 🔭 FullStack Developer working in [Peopleblox](https://peopleblox.io)
 
